@@ -1,4 +1,1 @@
-# Vorlage zu Hausübung 06
-
-Beachten Sie die Hinweise zum Herunterladen, Importieren, Bearbeitern, Exportieren und Hochladen in unserem
-[Studierenden-Guide](https://wiki.tudalgo.org/)
+# Project06_Maze_Runner
